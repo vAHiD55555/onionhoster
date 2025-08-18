@@ -1,7 +1,6 @@
 # 🌐 OnionHoster v2.2
 
 > **The Ultimate Tor Hidden Service Hosting Tool** - Deploy your web projects to the dark web in minutes!
-<img width="1181" height="550" alt="Screenshot 2025-08-17 at 9 37 27 PM" src="https://github.com/user-attachments/assets/51ac117b-7f35-4cc3-aba1-bfa2400a6d60" />
 
 [![Version](https://img.shields.io/badge/version-2.2-brightgreen.svg)](https://github.com/BlackHatDevX/onionhoster)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-blue.svg)](https://github.com/BlackHatDevX/onionhoster)
